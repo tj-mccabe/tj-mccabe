@@ -4,19 +4,19 @@ Second-year Software Engineering student at Ulster University, building experien
 
 🛠 Skills
 
-Languages: Java, Python, SQL, JavaScript, CSS
+Languages: Java, Python, SQL, JavaScript, CSS, HTML
 
-Tools: Git, GitHub, VS Code, IntelliJ
+Tools: Git, GitHub, IntelliJ, PyCharm, VS Code, Jupyter Notebook
 
-Areas: Web apps, databases, problem-solving, teamwork
+Areas: Web apps, backend development, databases, problem-solving, teamwork
 
 📚 Currently Learning
 
-Building full-stack applications
+Building and structuring backend systems with Java and Python
 
-Improving Java and SQL skills
+Improving backend architecture and code efficiency
 
-Exploring software engineering best practices
+Strengthening database design and query skills
 
 🔗 Links
 
