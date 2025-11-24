@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hey, I'm TJ 👋
 
-<!--
-**tj-mccabe/tj-mccabe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Second-year Software Engineering student at Ulster University, building experience through projects in Java, Python, SQL, and web development.
 
-Here are some ideas to get you started:
+🛠 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Languages: Java, Python, SQL, JavaScript, CSS
+
+Tools: Git, GitHub, VS Code, IntelliJ
+
+Areas: Web apps, databases, problem-solving, teamwork
+
+📚 Currently Learning
+
+Building full-stack applications
+
+Improving Java and SQL skills
+
+Exploring software engineering best practices
+
+🔗 Links
+
+LinkedIn: (https://www.linkedin.com/in/tj-mccabe-15370a369)
